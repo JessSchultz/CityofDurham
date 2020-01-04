@@ -177,6 +177,7 @@ hr {
   padding: 10px;
   font-weight: 500;
   margin-top: 20px;
+  margin-bottom: 20px
 }
 
 .contact-btn {
@@ -184,6 +185,7 @@ hr {
   padding: 10px;
   font-weight: 500;
   margin-top: 20px;
+  margin-bottom: 20px;
   float: right;
 }
 
