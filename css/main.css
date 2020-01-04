@@ -169,7 +169,7 @@ hr {
 }
 
 .greeting h1 {
-  word-spacing: 15px;
+  word-spacing: 5px;
 }
 
 .resume-btn {
@@ -177,7 +177,6 @@ hr {
   padding: 10px;
   font-weight: 500;
   margin-top: 20px;
-  margin-bottom: 20px
 }
 
 .contact-btn {
@@ -185,7 +184,6 @@ hr {
   padding: 10px;
   font-weight: 500;
   margin-top: 20px;
-  margin-bottom: 20px;
   float: right;
 }
 
