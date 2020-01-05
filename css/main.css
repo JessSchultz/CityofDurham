@@ -159,6 +159,7 @@ hr {
 
 .jumbotron {
   background-color: #fdfcfa;
+  border-bottom: 5px solid #eed5c1;
   height: auto;
   padding-bottom: 0;
 }
