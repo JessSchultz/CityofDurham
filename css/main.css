@@ -98,7 +98,7 @@ textarea {
    ========================================================================== */
 
 body {
-  background-color: #fffefb;
+  /* background-color: #fffefb; */
   max-width: inherit;
 
 }
@@ -109,10 +109,10 @@ h1, h2 {
 
 
 hr {
-  border: 10px #eed5c1 dotted;
+  border: 5px #eed5c1 solid;
   border-bottom: none;
   margin: 100px auto;
-  width: 10%;
+  width: 50%;
 }
 
 
@@ -158,13 +158,13 @@ hr {
 /************************* GREETING SECTION ****************************/
 
 .jumbotron {
-  background-color: #eff0f0;
+  background-color: #fdfcfa;
   height: auto;
   padding-bottom: 0;
 }
 
 .greeting {
-  padding-left: 150px;
+  padding-left: 200px;
   padding-top: 0px;
 }
 
@@ -229,6 +229,7 @@ hr {
 }
 
 .card {
+  background-color: #fdfcfa;
   margin-left: 50px;
   margin-right: 50px;
   margin-bottom: 50px;
@@ -241,7 +242,7 @@ hr {
 }
 
 .answer-content {
-  background-color: white;
+  background-color: #fdfcfa;
   border: 1px #eff0f0 solid;
   border-radius: 1%;
   box-shadow: 10px 10px #eff0f0;
